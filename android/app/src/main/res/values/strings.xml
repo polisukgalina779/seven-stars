@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seven Stars</string>
+
+    <string name="splash_title">SEVEN STARS</string>
+    <string name="splash_tagline">777 SOCIAL SLOTS</string>
+    <string name="loading">LOADING</string>
+    <string name="disclaimer_short">18+ ONLY · FREE VIRTUAL COINS · NO REAL MONEY</string>
+    <string name="disclaimer_long">18+ ONLY. FICTIONAL SOCIAL-CASINO ENTERTAINMENT. COINS ARE FREE, NON-PURCHASABLE AND NON-REDEEMABLE. NO BETTING, NO DEPOSITS, NO WITHDRAWALS, NO CASH PRIZES.</string>
+
+    <string name="play">PLAY</string>
+    <string name="spin">SPIN</string>
+    <string name="spin_again">SPIN AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="level_select">LEVEL SELECT</string>
+    <string name="collection">COLLECTION</string>
+    <string name="progress">PROGRESS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="enter_room">ENTER</string>
+
+    <string name="cd_logo">SEVEN STARS EMBLEM</string>
+    <string name="cd_menu">RETURN TO MENU</string>
+    <string name="cd_pause">PAUSE THE RUN</string>
+    <string name="cd_symbol">REEL SYMBOL %1$s</string>
+
+    <string name="coins_label">COINS %1$s</string>
+    <string name="rooms_progress">%1$d / %2$d ROOMS</string>
+    <string name="cards_progress">%1$d / %2$d CARDS</string>
+    <string name="stars_progress">%1$d / %2$d STARS</string>
+    <string name="mode_stake">%1$s · STAKE %2$d</string>
+    <string name="stake_value">STAKE %1$d</string>
+    <string name="goal_spins">GOAL %1$d · %2$d SPINS</string>
+    <string name="goal_value">GOAL %1$d</string>
+
+    <string name="room_1">GOLD PARLOUR</string>
+    <string name="room_2">RUBY LOUNGE</string>
+    <string name="room_3">MIDNIGHT VAULT</string>
+    <string name="room_4">COMET HALL</string>
+    <string name="room_5">AURORA DECK</string>
+    <string name="room_6">SEVEN STARS SUITE</string>
+
+    <string name="mode_calm">CALM</string>
+    <string name="mode_bold">BOLD</string>
+    <string name="mode_wild">WILD</string>
+
+    <string name="speed_relaxed">RELAXED</string>
+    <string name="speed_standard">STANDARD</string>
+    <string name="speed_rapid">RAPID</string>
+
+    <string name="tier_common">COMMON</string>
+    <string name="tier_bright">BRIGHT</string>
+    <string name="tier_rare">RARE</string>
+    <string name="tier_prime">PRIME</string>
+    <string name="tier_wild">WILD</string>
+
+    <string name="unlock_room">UNLOCK %1$s</string>
+    <string name="not_enough_coins_yet">NOT ENOUGH COINS YET</string>
+    <string name="not_enough_coins">NOT ENOUGH COINS</string>
+
+    <string name="run_counter">RUN %1$d / %2$d</string>
+    <string name="last_win">LAST +%1$s</string>
+    <string name="stat_stake">STAKE</string>
+    <string name="stat_run_goal">TARGET</string>
+    <string name="stat_won">WON</string>
+    <string name="stat_best_win">BEST WIN</string>
+    <string name="stat_total_spins">TOTAL SPINS</string>
+    <string name="stat_rooms_unlocked">ROOMS UNLOCKED</string>
+    <string name="stat_cards_found">CARDS FOUND</string>
+    <string name="streak_pill">x%1$s</string>
+    <string name="payout_multiplier">x%1$d</string>
+    <string name="ribbon_title">TONIGHT ON THE REELS</string>
+    <string name="big_win">BIG WIN</string>
+
+    <string name="paused">PAUSED</string>
+    <string name="pause_body">YOUR RUN IS SAVED</string>
+    <string name="resume">RESUME</string>
+    <string name="restart_run">RESTART RUN</string>
+
+    <string name="verdict_three">SEVEN STARS ALIGNED</string>
+    <string name="verdict_two">THE REELS FAVOURED YOU</string>
+    <string name="verdict_one">A FAINT GLIMMER</string>
+    <string name="verdict_zero">THE REELS STAYED COLD</string>
+    <string name="verdict_bust">OUT OF COINS</string>
+    <string name="row_staked">STAKED</string>
+    <string name="row_won">WON</string>
+    <string name="row_net">NET</string>
+    <string name="row_best_line">BEST LINE</string>
+    <string name="row_streak_peak">STREAK PEAK</string>
+    <string name="net_positive">+%1$s</string>
+    <string name="net_negative">-%1$s</string>
+    <string name="new_card">NEW CARD</string>
+    <string name="new_cards">%1$d NEW CARDS</string>
+    <string name="room_set_complete">ROOM SET COMPLETE +%1$s COINS</string>
+    <string name="refill_title">THE HOUSE POURS YOU 500 FREE COINS</string>
+    <string name="claim_refill">CLAIM 500</string>
+    <string name="claimed">CLAIMED</string>
+
+    <string name="room_cards">%1$d / %2$d</string>
+    <string name="card_hint">LAND 3</string>
+    <string name="card_locked">?</string>
+    <string name="collection_task">TASK · LAND THREE OF A KIND OF EVERY SYMBOL IN THIS ROOM</string>
+    <string name="collection_empty">NO CARDS YET · WIN A THREE OF A KIND TO OPEN THE SET</string>
+    <string name="room_complete_tick">✓</string>
+
+    <string name="stars_hero">STARS %1$d / %2$d</string>
+    <string name="mastery_row">%1$d SPINS · BEST %2$s</string>
+    <string name="progress_empty">NOTHING RECORDED YET · YOUR FIRST STAR RUN OPENS THE LEDGER</string>
+
+    <string name="setting_mode">DEFAULT RISK MODE</string>
+    <string name="setting_speed">REEL SPEED</string>
+    <string name="setting_reduce_motion">REDUCE MOTION</string>
+    <string name="setting_pay_table">SHOW PAY TABLE</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_title">RESET EVERYTHING?</string>
+    <string name="reset_body">COINS, STARS, CARDS AND ROOMS GO BACK TO DAY ONE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset">RESET</string>
+
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="state_selected">SELECTED</string>
+    <string name="state_not_selected">NOT SELECTED</string>
+    <string name="state_spinning">SPINNING</string>
+    <string name="state_ready">READY</string>
+    <string name="state_locked">LOCKED</string>
+    <string name="state_unlocked">UNLOCKED</string>
+    <string name="state_earned">EARNED</string>
+</resources>
